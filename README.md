@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="500"  src=https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif>
 - 🌱 I’m currently learning **full stack development**
 
-- 💬 Ask me about **python,java,ML**
+- 💬 Ask me about **devops,java **
 
 - 📫 How to reach me **suvi.swetha22@gmail.com**
 
