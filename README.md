@@ -1,7 +1,5 @@
-![241765453-85cb9521-97c0-4a65-9358-7db8099fac7f](https://github.com/suvimanikandan/suvimanikandan/assets/80690771/c3e71330-c4fa-490a-9768-9f75603bb76c)
+<img align="right" width="400" height="290" src="./hi.gif">
 # 💫 About Me:
-
-
 🔭 I'm currently working on Devops projects<br>👯 I’m looking to collaborate on cloud/devops related Project<br>📖I'm currently learning devops tools<br>🔖Ask me about devops<br>📫 How to reach me: skmswetha22@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/suvimanikandan<br>📝 I regularly write articles on https://medium.com/@skmswetha22<br>😂 Fun Fact -pronouns: she/sher<br>
 
 
